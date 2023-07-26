@@ -1,0 +1,32 @@
+/*Selector {
+	Property: value;
+}*/
+body{
+	background-color: #EDC476;
+	text-align: center;
+	text-decoration: underline;
+	background-size: cover;
+	cursor: zoom-in;
+	font-weight: bolder;
+	background-size: cover;
+	font-family: 'Tilt Prism', cursive;
+
+}
+h2{
+	color:darkred;
+	font-size: 50px
+}
+p{
+	color: white;
+	font-size: 40px
+}
+img {
+	float: center;
+}
+.webtext {
+	border:5px dashed green;
+	font-size: 45px
+}
+.active {
+	color: red;
+}
